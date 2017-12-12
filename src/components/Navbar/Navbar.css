@@ -1,0 +1,19 @@
+.nav-wrapper {
+  display: -ms-flexbox;
+  display: flex;
+  background: rgb(211, 253, 255);
+  -ms-flex-align: center;
+  align-items: center;
+  width: 100%;
+  position: fixed;
+  font-size: 20px;
+  justify-content: space-evenly;
+  color: rgb(49, 49, 49);
+  height: 60px;
+}
+.products{
+  padding:10px;
+}
+.nav-wrapper > a{
+  color:gray;
+}

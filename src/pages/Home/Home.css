@@ -1,0 +1,71 @@
+.page-wrapper{
+  /* background-image: url(https://images.unsplash.com/reserve/7vjJbdDRga27ApDoYicw_Sparks.jpg?auto=format&fit=crop&w=750&q=80&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D); */
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-image:linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), 
+  url(https://images.unsplash.com/reserve/7vjJbdDRga27ApDoYicw_Sparks.jpg?auto=format&fit=crop&w=750&q=80&ixid=dW5zcGxhc2guY29tOzs7Ozs%3D);
+}
+.top{
+  background: rgba(235, 172, 172,0);
+  height:100vh;
+  width:80%;
+  margin: 0 auto;
+  font-size: 70px;
+  color: #a6f7e9;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.services{
+  width: 80%;
+  height: 100vh;
+  margin: 0 auto;
+  background: white;
+  padding: 5% 10%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  border:1px solid white;
+}
+.service-titles{
+  font-size: 40px;
+  text-align: center;
+  color:white;
+}
+
+.pinholes{
+  background-image:linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+  url(https://images.dotmed.com/images/listingpics/1464217.jpg);
+}
+.description{
+  font-size: 17px;
+  color:white;
+}
+.lead{
+  background-image:linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+  url(http://vulcangms.com/wp-content/uploads/2012/03/Gravity-casting.jpg);
+
+}
+.phantoms{
+  background-image:linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+  url(http://www.maiedge.com/maiedge-site/wp-content/uploads/2013/06/Bar_Phantom_Rectanguar.jpg);
+
+}
+.design{
+  background-image:linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+  url(http://www.sasmechdesign.com/images/homepage.jpg);
+}
+.printing{
+  background-image:linear-gradient(to right, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+  url(https://www.simplify3d.com/wp-content/uploads/2016/07/3D-Printer-Beside-Software-Monitor.jpg);
+}
+.contact{
+  background: rgb(27, 27, 27);
+}
+.con-des{
+  text-align: center;
+}
